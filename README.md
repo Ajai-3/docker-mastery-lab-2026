@@ -1,4 +1,4 @@
-# Docker Mastery Lab 2026 🐳
+# <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" /> DOCKER - Complete Documentation
 
 A comprehensive guide from absolute beginner to industrial-level Docker expert. This repository documents my journey through containerization, architecture, and production-grade orchestration.
 
